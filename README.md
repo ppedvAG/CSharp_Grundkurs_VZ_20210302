@@ -68,39 +68,39 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] Fragen [Link](Uebungen/Modul007_Fragen) 
 
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
-- [ ] Vererbung <!--[Link](Uebungen/Modul008_01_Vererbungen/Program.cs)--> 
-- [ ] base 
-- [ ] Zugriffsmodifier <!--[Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul008_Fragen)--> 
+- [x] Vererbung [Link](Uebungen/Modul008_01_Vererbungen/Program.cs) 
+- [x] base 
+- [x] Zugriffsmodifier [Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul008_Fragen) 
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
-- [ ] Polymorphismus
-- [ ] virtuelle Member <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs)--> 
-- [ ] Member ausblenden <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs)--> 
-- [ ] Überschreibungen verhindern <!--[Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul009_Fragen)--> 
+- [x] Polymorphismus
+- [x] virtuelle Member [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortOverride.cs) 
+- [x] Member ausblenden [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
+- [x] Überschreibungen verhindern [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
+- [x] Fragen [Link](Uebungen/Modul009_Fragen) 
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
-- [ ] abstrakte Member und Klassen <!--[Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs)--> 
-- [ ] Typtest "GetType()-->" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Typtest "typeof" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Typtest "is" <!--[Link](Uebungen/Modul010_02_Typpruefungen/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul010_Fragen)--> 
+- [x] abstrakte Member und Klassen [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
+- [x] Typtest "GetType()" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "typeof" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Typtest "is" [Link](Uebungen/Modul010_02_Typpruefungen/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul010_Fragen) 
 
 
 ## M011 | INTERFACES
-- [ ] Interface <!--[Link](Uebungen/Modul011_01_Interface/Program.cs)--> 
-- [ ] Interface ab C# 8 <!--[Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul011_Fragen)--> 
+- [x] Interface [Link](Uebungen/Modul011_01_Interface/Program.cs) 
+- [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs) 
+- [x] Fragen [Link](Uebungen/Modul011_Fragen) 
 
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
-- [ ] Listen <!--[Link](Uebungen/Modul012_01_Listen/List.cs)--> 
-- [ ] Dictionary <!--[Link](Uebungen/Modul012_01_Listen/Dictionary.cs)--> 
-- [ ] Stack <!--[Link](Uebungen/Modul012_01_Listen/Stack.cs)--> 
-- [ ] Queue <!--[Link](Uebungen/Modul012_01_Listen/Queue.cs)--> 
-- [ ] Hashtable <!--[Link](Uebungen/Modul012_01_Listen/Hashtable.cs)--> 
-- [ ] Tuple <!--[Link](Uebungen/Modul012_01_Listen/Tuple.cs)--> 
-- [ ] Fragen <!--[Link](Uebungen/Modul012_Fragen)--> 
+- [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs) 
+- [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
+- [x] Stack [Link](Uebungen/Modul012_01_Listen/Stack.cs) 
+- [x] Queue [Link](Uebungen/Modul012_01_Listen/Queue.cs) 
+- [x] Hashtable [Link](Uebungen/Modul012_01_Listen/Hashtable.cs) 
+- [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
+- [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
 ## M013 | DELEGATES und EVENTS (optional)
 - [ ] Action <!--[Link](Uebungen/Modul013_01_Delegates/Action.cs)--> 
