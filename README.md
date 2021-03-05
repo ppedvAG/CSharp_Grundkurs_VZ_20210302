@@ -17,7 +17,7 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] DemoConsole.cs [Link](Uebungen/Modul001_02_DemoConsole/Program.cs)
 - [x] Startprojekt festlegen
 - [x] Sprachgrundlagen
-- [x] C# Cheatsheet <!--[Link](CSHARP-CHEATSHEET.md)-->
+- [x] C# Cheatsheet [Link](CSHARP-CHEATSHEET.md)
 
 
 ## M002 | DATENTYPEN, KONVERTIERUNGEN und OPERATOREN
@@ -42,10 +42,12 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] do-while-Schleife [Link](Uebungen/Modul004_03_Schleifen/Program.cs) 
 - [x] Fragen [Link](Uebungen/Modul004_Fragen/Program.cs) 
 
+
 ## M005 | STATISCHE MEMBER
 - [x] Funktionen [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
 - [x] Eigenschaften [Link](Uebungen/Modul005_01_statischeMember/Program.cs) 
 - [x] Fragen [Link](Uebungen/Modul005_Fragen/Program.cs) 
+
 
 ## M006 | OOP - NAMESPACES, KLASSEN, FELDER und KAPSELUNGEN
 - [x] Namespaces [Link](Uebungen/Modul006_01_NamespaceKlassen/Program.cs) 
@@ -55,6 +57,7 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] Kapselungen [Link](Uebungen/Modul006_02_FelderEigenschaften/Eigenschaften.cs) 
 - [x] partielle Klassen und Methoden [Link](Uebungen/Modul006_03_partielleKlassenMethoden/Program.cs) 
 - [x] Fragen [Link](Uebungen/Modul006_Fragen) 
+
 
 ## M007 | OOP - OBJEKTE, METHODEN und PARAMETER
 - [x] Objekte [Link](Uebungen/Modul007_01_Objekte/Program.cs) 
@@ -67,11 +70,13 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] ref [Link](Uebungen/Modul007_02_UeberlagerungParameter/SchluesselwortRef.cs) 
 - [x] Fragen [Link](Uebungen/Modul007_Fragen) 
 
+
 ## M008 | OOP - VERERBUNG und ZUGRIFFSMODIFIER
 - [x] Vererbung [Link](Uebungen/Modul008_01_Vererbungen/Program.cs) 
 - [x] base 
 - [x] Zugriffsmodifier [Link](Uebungen/Modul008_02_Zugriffsmodifizierer/Program.cs) 
 - [x] Fragen [Link](Uebungen/Modul008_Fragen) 
+
 
 ## M009 | OOP - POLYMORPHISMUS VIRTUAL
 - [x] Polymorphismus
@@ -79,6 +84,7 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] Member ausblenden [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortNew.cs) 
 - [x] Überschreibungen verhindern [Link](Uebungen/Modul009_01_PolymorphismusVirtual/SchluesselwortSealed.cs) 
 - [x] Fragen [Link](Uebungen/Modul009_Fragen) 
+
 
 ## M010 | OOP - POLYMORPHISMUS ABSTRACT
 - [x] abstrakte Member und Klassen [Link](Uebungen/Modul010_01_PolymorphismusAbstract/Program.cs) 
@@ -93,6 +99,7 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] Interface ab C# 8 [Link](Uebungen/Modul011_02_InterfaceCSharp8/Program.cs) 
 - [x] Fragen [Link](Uebungen/Modul011_Fragen) 
 
+
 ## M012 | GENERISCHE LISTEN, DICTIONARY, STACK und QUEUE
 - [x] Listen [Link](Uebungen/Modul012_01_Listen/List.cs) 
 - [x] Dictionary [Link](Uebungen/Modul012_01_Listen/Dictionary.cs) 
@@ -102,35 +109,40 @@ C# Grundlagenkurs in Vollzeit vom 02.03.2021 bis 05.03.2021 - Trainer: Benedikt 
 - [x] Tuple [Link](Uebungen/Modul012_01_Listen/Tuple.cs) 
 - [x] Fragen [Link](Uebungen/Modul012_Fragen) 
 
+
 ## M013 | DELEGATES und EVENTS (optional)
-- [ ] Action <!--[Link](Uebungen/Modul013_01_Delegates/Action.cs)--> 
-- [ ] Predicate <!--[Link](Uebungen/Modul013_01_Delegates/Predicate.cs)--> 
-- [ ] Func <!--[Link](Uebungen/Modul013_01_Delegates/Func.cs)--> 
-- [ ] anonyme Methoden <!--[Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs)--> 
-- [ ] EventHandler <!--[Link](Uebungen/Modul013_02_Events/Program.cs)--> 
-- [ ] Timer <!--[Link](Uebungen/Modul013_03_Timer/Program.cs)--> 
+- [x] Action [Link](Uebungen/Modul013_01_Delegates/Action.cs) 
+- [x] Predicate [Link](Uebungen/Modul013_01_Delegates/Predicate.cs) 
+- [x] Func [Link](Uebungen/Modul013_01_Delegates/Func.cs) 
+- [x] anonyme Methoden [Link](Uebungen/Modul013_01_Delegates/AnonymeMethoden.cs) 
+- [x] EventHandler [Link](Uebungen/Modul013_02_Events/Program.cs) 
+- [x] Timer [Link](Uebungen/Modul013_03_Timer/Program.cs) 
 
 
 ## M014 | FEHLERBEHANDLUNG
-- [ ] Fehlertypen
-- [ ] try-catch <!--[Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs)--> 
-- [ ] Debugger 
-- [ ] UnitTests <!--[Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs)--> 
+- [x] Fehlertypen
+- [x] try-catch [Link](Uebungen/Modul014_01_Fehlerbehandlung/Program.cs) 
+- [x] Debugger 
+- [x] UnitTests [Link](Uebungen/Modul014_02_UnitTest_Funktionen/Program.cs) 
 
 
 ## M015 | DATEIEN und VERZEICHNISSE (optional)
-- [ ] Dateien lesen/schreiben <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] Dateidialog <!--[Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)-->
-- [ ] JSON <!--[Link](Uebungen/Modul015_02_JSON/Program.cs)-->
-- [ ] XML <!--[Link](Uebungen/Modul015_03_XML/Program.cs)-->
-- [ ] Fragen <!--[Link](Uebungen/Modul015_Fragen)-->
+- [x] Dateien lesen/schreiben [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] Dateidialog [Link](Uebungen/Modul015_01_Dateien_Verzeichnisse/MainWindow.xaml.cs)
+- [x] JSON [Link](Uebungen/Modul015_02_JSON/Program.cs)
+- [x] XML [Link](Uebungen/Modul015_03_XML/Program.cs)
+- [x] Fragen [Link](Uebungen/Modul015_Fragen)
 
 
 ## M016 | ABSCHLUSSPROJEKT (optional)
-- [ ] API <!--[Link](Uebungen/Modul016_API)-->
-- [ ] WPF <!--[Link](Uebungen/Modul016_WPF)-->
+- [x] API [Link](Uebungen/Modul016_API)
+- [x] WPF [Link](Uebungen/Modul016_WPF)
+- [x] Socket Server [Link](Uebungen/Modul016_Server)
+- [x] Socket Client [Link](Uebungen/Modul016_Client)
+- [x] SQLInjection [Link](Uebungen/Modul016_SQLInject)
+
 
 ## M017 | ZUSÄTZLICHE THEMEN (optional)
-- [ ] Klassendiagramme
-- [ ] Deployment
-- [ ] .NET Framework/.NET Core/.NET 5
+- [x] Klassendiagramme
+- [x] Deployment
+- [x] .NET Framework/.NET Core/.NET 5
