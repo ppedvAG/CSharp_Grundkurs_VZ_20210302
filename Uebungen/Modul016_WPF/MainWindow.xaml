@@ -1,0 +1,38 @@
+﻿<Window x:Class="Lab16_WPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab16_WPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel Margin="10">
+        <StackPanel DockPanel.Dock="Top">
+            <Label Content="Id"/>
+            <TextBox Name="tbId" Height="24" IsEnabled="False"/>
+            <Label Content="Namen"/>
+            <TextBox Name="tbName" Height="24" />
+            <Label Content="Erledigt"/>
+            <CheckBox Name="cbErledigt" Height="24"/>
+        </StackPanel>
+        <Grid DockPanel.Dock="Top" Margin="0,25,0,25">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <TextBox Name="tbSuche" Text="Suche"/>
+            <Button Name="btnSuche" Content="Suche" Grid.Column="2" Click="btnSuche_Click"/>
+            <Button Name="btnBearbeiten" Content="Bearbeiten" Grid.Column="4" Click="btnBearbeiten_Click"/>
+            <Button Name="btnNeu" Content="Neu" Grid.Column="6" Click="btnNeu_Click"/>
+            <Button Name="btnEntfernen" Content="Entfernen" Grid.Column="8" Click="btnEntfernen_Click"/>
+        </Grid>
+        <DataGrid Name="dgItems"/>
+    </DockPanel>
+</Window>
